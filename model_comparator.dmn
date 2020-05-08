@@ -6,12 +6,12 @@
     </extensionElements>
     <decisionTable id="decisionTable_1">
       <input id="input_1" label="auc" camunda:inputVariable="auc">
-        <inputExpression id="inputExpression_1" typeRef="double">
+        <inputExpression id="inputExpression_1" typeRef="double" expressionLanguage="feel">
           <text></text>
         </inputExpression>
       </input>
       <input id="InputClause_08e7ybd" label="f1" camunda:inputVariable="f1">
-        <inputExpression id="LiteralExpression_0nr86e9" typeRef="double">
+        <inputExpression id="LiteralExpression_0nr86e9" typeRef="double" expressionLanguage="feel">
           <text></text>
         </inputExpression>
       </input>
