@@ -7,12 +7,12 @@
     <decisionTable id="decisionTable_1">
       <input id="input_1" label="auc" camunda:inputVariable="auc">
         <inputExpression id="inputExpression_1" typeRef="double">
-          <text>simpleJUELexpression</text>
+          <text></text>
         </inputExpression>
       </input>
       <input id="InputClause_08e7ybd" label="f1" camunda:inputVariable="f1">
         <inputExpression id="LiteralExpression_0nr86e9" typeRef="double">
-          <text>simpleJUELexpression</text>
+          <text></text>
         </inputExpression>
       </input>
       <output id="output_1" label="passes" name="passes" typeRef="boolean" />
