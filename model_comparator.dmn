@@ -45,20 +45,6 @@
           <text>"F1 under threshold of 0.60"</text>
         </outputEntry>
       </rule>
-      <rule id="DecisionRule_17sixuu">
-        <inputEntry id="UnaryTests_0xpqqgj">
-          <text></text>
-        </inputEntry>
-        <inputEntry id="UnaryTests_14ks8mu">
-          <text></text>
-        </inputEntry>
-        <outputEntry id="LiteralExpression_08dv01c">
-          <text>true</text>
-        </outputEntry>
-        <outputEntry id="LiteralExpression_15olwdi">
-          <text>"Passes test"</text>
-        </outputEntry>
-      </rule>
     </decisionTable>
   </decision>
 </definitions>
